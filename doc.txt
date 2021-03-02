@@ -1,0 +1,2 @@
+start client: yarn watch:client;
+start sever:  yarn watch:server
